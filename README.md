@@ -1,3 +1,6 @@
+https://github.com/user-attachments/assets/3438403e-aaff-4741-b660-768702b9ea9d
+
+
 # Table of content
 - [Introduction to Machine Learning](#Introduction-to-Machine-Learning)
 - [Overview of Machine Learning Applications](#Overview-of-Machine-Learning-Applications)
