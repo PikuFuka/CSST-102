@@ -1,4 +1,8 @@
-# **Introduction to Machine Learning**
+# Table of content
+- [Introduction](#Introduction-to-Machine-Learning)
+
+
+# Introduction to Machine Learning
 **What is Machine Learning?**
 
 Machine learning is a specific type of artificial intelligence that allows systems to learn from data and detect patterns without much human intervention.
