@@ -1,6 +1,9 @@
 # Table of content
-- [Introduction](#Introduction-to-Machine-Learning)
-
+- [Introduction to Machine Learning](#Introduction-to-Machine-Learning)
+- [Overview of Machine Learning Applications](#Overview-of-Machine-Learning-Applications)
+- [Healthcare](#Healthcare)
+- [Finance](#Finance)
+- [Marketing](#Marketing)
 
 # Introduction to Machine Learning
 **What is Machine Learning?**
@@ -16,8 +19,8 @@ There are several types of machine learning, each with special characteristics a
 * Semi-Supervised Machine Learning
 * Reinforcement Learning
 
-# **Overview of Machine Learning Applications**
-# **Healthcare**
+# Overview of Machine Learning Applications
+# Healthcare
 # **Improving diagnosis**
 
 Machine learning in healthcare can be used by medical professionals to develop better diagnostic tools to analyze medical images. For example, a machine learning algorithm can be used in medical imaging (such as X-rays or MRI scans) using pattern recognition to look for patterns that indicate a particular disease. This type of machine learning algorithm could potentially help doctors make quicker, more accurate diagnoses leading to improved patient outcomes.
@@ -57,7 +60,7 @@ Supervised Learning and Reinforcement Learning are typically used. Supervised le
 **Impact of the Solution:**
 Machine learning can significantly improve the quality of patient care by enabling proactive monitoring systems that alert healthcare professionals when a patient’s condition changes. This leads to faster interventions, reduces the likelihood of medical complications, and enhances patient safety. Additionally, it can help reduce the burden on healthcare staff, ensuring that medical attention is directed where it is needed most, improving the overall efficiency of care delivery.
 
-# **Finance**
+# Finance
 
 **Fraud detection**
 
@@ -85,7 +88,7 @@ Supervised Learning and Reinforcement Learning are commonly used. Supervised lea
 **Impact of the Solution:**
 Algorithmic trading driven by machine learning enhances the speed and accuracy of trade decisions, leading to better financial outcomes. It reduces human error and emotional bias in trading, while also optimizing strategies for maximizing returns. This automation allows traders to capitalize on market opportunities more effectively, improves liquidity, and can increase profitability by executing trades at the most opportune times.
 
-# **Marketing**
+# Marketing
 # **Customer segmentation**
 
 By grouping customers together based on specific buying characteristics, you can more precisely target these groups and personalize your marketing campaigns. For instance, you might segment customers based on factors such as age, income level, geographic location, education level, purchasing habits, and so on.
